@@ -37,6 +37,8 @@
   "i18n.signUpForm.password.minLength": "Enter at least 5 characters.",
   "i18n.signUpForm.country.notEmpty": "Select your country.",
 
+  "i18n.chat.noPartner": "No partner.",
+
   "i18n.error.audio.capture.failed": "It was not possible to capture the audio message.",
 
   "i18n.general.loading": "Loading...",
@@ -50,6 +52,13 @@
   "i18n.general.login": "Login",
   "i18n.general.signUp": "Sign Up",
   "i18n.general.save": "Save",
+  "i18n.general.profile": "Profile",
+  "i18n.general.chats": "Chats",
+  "i18n.general.terms": "Terms & Conditions",
+  "i18n.general.logout": "Logout",
+  "i18n.general.next": "Next",
+  "i18n.general.start": "Start",
+  "i18n.general.close": "Close",
 
   "i18n.general.error.message.notFound": "Message not found",
   "i18n.general.error.user.notValid": "Invalid user",
@@ -69,6 +78,7 @@
   "i18n.general.error.timezone.allOf": "Invalid timezone",
   "i18n.general.error.study_hour.allOf": "Invalid study hour",
   "i18n.general.error.partner_email.allOf": "Invalid partner email",
+  "i18n.general.error.login.notValid": "It was not possible to login, check your information and try again.",
 
   "i18n.general.countries.ascension_island": "Ascension Island",
   "i18n.general.countries.andorra": "Andorra",

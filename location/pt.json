@@ -21,7 +21,7 @@
   "i18n.signUpForm.name": "Nome",
   "i18n.signUpForm.email": "Email",
   "i18n.signUpForm.password": "Senha",
-  "i18n.signUpForm.profile": "Profile",
+  "i18n.signUpForm.profile": "Perfil",
   "i18n.signUpForm.languages.known": "idiomas que você fala",
   "i18n.signUpForm.languages.learning": "Idiomas que você está aprendendo",
   "i18n.signUpForm.profilePicture.library": "Carregar da biblioteca",
@@ -37,6 +37,8 @@
   "i18n.signUpForm.password.minLength": "A senha precisa ter pelo menos 5 caracteres.",
   "i18n.signUpForm.country.notEmpty": "Selecione o seu país.",
 
+  "i18n.chat.noPartner": "Sem parceiro.",
+
   "i18n.error.audio.capture.failed": "Não foi possível capturar a mensagem de audio.",
 
   "i18n.general.loading": "Carregando...",
@@ -50,6 +52,13 @@
   "i18n.general.login": "Logar",
   "i18n.general.signUp": "Registrar",
   "i18n.general.save": "Salvar",
+  "i18n.general.profile": "Perfil",
+  "i18n.general.chats": "Mensagens",
+  "i18n.general.terms": "Termos & Condições",
+  "i18n.general.logout": "Sair",
+  "i18n.general.next": "Próximo",
+  "i18n.general.start": "Iniciar",
+  "i18n.general.close": "Fechar",
 
   "i18n.general.error.message.notFound": "Mensagem não encontrada",
   "i18n.general.error.user.notValid": "Usuário inválido",
@@ -62,13 +71,14 @@
   "i18n.general.error.password.allOf": "Senha inválida",
   "i18n.general.error.name.allOf": "Nome inválido",
   "i18n.general.error.country.allOf": "País inválido",
-  "i18n.general.error.profile.allOf": "Mensagem do profile inválida",
+  "i18n.general.error.profile.allOf": "Mensagem do perfil inválida",
   "i18n.general.error.gender.allOf": "Gênero inválido",
   "i18n.general.error.languages_known.allOf": "Idioma conhecido inválido",
   "i18n.general.error.languages_learning.allOf": "Idioma aprendendo inválido",
   "i18n.general.error.timezone.allOf": "Fuso-horário inválido",
   "i18n.general.error.study_hour.allOf": "Hora de estudo inválida",
   "i18n.general.error.partner_email.allOf": "Email do parceiro é inválido",
+  "i18n.general.error.login.notValid": "Não foi possível efetuar seu login, verifique seus dados e tente novamente.",
 
   "i18n.general.countries.ascension_island": "Ilha da Ascensão",
   "i18n.general.countries.andorra": "Andorra",
