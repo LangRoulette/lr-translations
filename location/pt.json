@@ -9,6 +9,13 @@
   "i18n.login.failed": "Falha no login!",
   "i18n.login.password": "Falha no login!",
 
+  "i18n.loginForm.email": "Email",
+  "i18n.loginForm.password": "Senha",
+  "i18n.loginForm.email.notEmpty": "Nos informe seu email.",
+  "i18n.loginForm.email.notValid": "Esse não é um email válido.",
+  "i18n.loginForm.password.notEmpty": "Digite sua senha.",
+  "i18n.loginForm.password.minLength": "A senha precisa ter pelo menos 5 caracteres.",
+
   "i18n.signUpForm.country": "Seu país",
   "i18n.signUpForm.gender": "Seu genero",
   "i18n.signUpForm.languages.known": "idiomas que você fala",
@@ -30,6 +37,8 @@
   "i18n.general.gender.male": "Masculino",
   "i18n.general.gender.female": "Feminino",
   "i18n.general.gender.error": "Erro",
+  "i18n.general.login": "Logar",
+  "i18n.general.signUp": "Registrar",
 
   "i18n.general.error.message.notFound": "Mensagem não encontrada",
   "i18n.general.error.user.notValid": "Usuário inválido",
