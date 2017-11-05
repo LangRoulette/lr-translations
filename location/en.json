@@ -13,11 +13,15 @@
   "i18n.loginForm.password": "Password",
   "i18n.loginForm.email.notEmpty": "Tell us your email.",
   "i18n.loginForm.email.notValid": "This is not a valid email.",
-  "i18n.loginForm.password.notEmpty": "Digit your email.",
+  "i18n.loginForm.password.notEmpty": "Tell us your email.",
   "i18n.loginForm.password.minLength": "Enter at least 5 characters.",
 
   "i18n.signUpForm.country": "Your country",
   "i18n.signUpForm.gender": "Your gender",
+  "i18n.signUpForm.name": "Name",
+  "i18n.signUpForm.email": "Email",
+  "i18n.signUpForm.password": "Password",
+  "i18n.signUpForm.profile": "Profile",
   "i18n.signUpForm.languages.known": "Languages you know",
   "i18n.signUpForm.languages.learning": "Languages you are learning",
   "i18n.signUpForm.profilePicture.library": "Load from the library",
@@ -26,6 +30,12 @@
   "i18n.signUpForm.profilePicture.failed": "It was not possible to sign up",
   "i18n.signUpForm.update.success": "Your account was successfully updated!",
   "i18n.signUpForm.update.fail": "It was not possible to update your profile",
+  "i18n.signUpForm.name.notEmpty": "Tell us your name.",
+  "i18n.signUpForm.email.notEmpty": "Tell us your email.",
+  "i18n.signUpForm.email.notValid": "This is not a valid email.",
+  "i18n.signUpForm.password.notEmpty": "Tell us your password.",
+  "i18n.signUpForm.password.minLength": "Enter at least 5 characters.",
+  "i18n.signUpForm.country.notEmpty": "Select your country.",
 
   "i18n.error.audio.capture.failed": "It was not possible to capture the audio message.",
 
@@ -37,8 +47,9 @@
   "i18n.general.gender.male": "Male",
   "i18n.general.gender.female": "Female",
   "i18n.general.gender.error": "Error",
-  "i18n.general.login": "Logar",
-  "i18n.general.signUp": "Registrar",
+  "i18n.general.login": "Login",
+  "i18n.general.signUp": "Sign Up",
+  "i18n.general.save": "Save",
 
   "i18n.general.error.message.notFound": "Message not found",
   "i18n.general.error.user.notValid": "Invalid user",
@@ -496,5 +507,5 @@
   "i18n.general.languages.yiddish": "Yiddish",
   "i18n.general.languages.yoruba": "Yoruba",
   "i18n.general.languages.zhuang-chuang": "Zhuang, Chuang",
-  "i18n.general.languages.zulu": "Zulu",
+  "i18n.general.languages.zulu": "Zulu"
 }

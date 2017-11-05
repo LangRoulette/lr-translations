@@ -18,6 +18,10 @@
 
   "i18n.signUpForm.country": "Seu país",
   "i18n.signUpForm.gender": "Seu genero",
+  "i18n.signUpForm.name": "Nome",
+  "i18n.signUpForm.email": "Email",
+  "i18n.signUpForm.password": "Senha",
+  "i18n.signUpForm.profile": "Profile",
   "i18n.signUpForm.languages.known": "idiomas que você fala",
   "i18n.signUpForm.languages.learning": "Idiomas que você está aprendendo",
   "i18n.signUpForm.profilePicture.library": "Carregar da biblioteca",
@@ -26,6 +30,12 @@
   "i18n.signUpForm.profilePicture.failed": "Não foi possivel registrar",
   "i18n.signUpForm.update.success": "Sua conta foi atualizada com sucesso!",
   "i18n.signUpForm.update.fail": "Não foi possivel atualizar sua conta",
+  "i18n.signUpForm.name.notEmpty": "Nos informe seu nome.",
+  "i18n.signUpForm.email.notEmpty": "Nos informe seu email.",
+  "i18n.signUpForm.email.notValid": "Esse não é um email válido.",
+  "i18n.signUpForm.password.notEmpty": "Digite sua senha.",
+  "i18n.signUpForm.password.minLength": "A senha precisa ter pelo menos 5 caracteres.",
+  "i18n.signUpForm.country.notEmpty": "Selecione o seu país.",
 
   "i18n.error.audio.capture.failed": "Não foi possível capturar a mensagem de audio.",
 
@@ -39,6 +49,7 @@
   "i18n.general.gender.error": "Erro",
   "i18n.general.login": "Logar",
   "i18n.general.signUp": "Registrar",
+  "i18n.general.save": "Salvar",
 
   "i18n.general.error.message.notFound": "Mensagem não encontrada",
   "i18n.general.error.user.notValid": "Usuário inválido",
@@ -496,5 +507,5 @@
   "i18n.general.languages.yiddish": "Lídiche",
   "i18n.general.languages.yoruba": "Yoruba",
   "i18n.general.languages.zhuang-chuang": "Zhuang, Chuang",
-  "i18n.general.languages.zulu": "Zulu",
+  "i18n.general.languages.zulu": "Zulu"
 }
