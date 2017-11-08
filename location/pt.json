@@ -68,6 +68,7 @@
   "i18n.general.error.file.allOf": "Arquivo inválido",
   "i18n.general.error.picture.allOf": "Foto inválida",
   "i18n.general.error.email.allOf": "Email inválido",
+  "i18n.general.error.email.alreadyExists": "Email já cadastrado.",
   "i18n.general.error.password.allOf": "Senha inválida",
   "i18n.general.error.name.allOf": "Nome inválido",
   "i18n.general.error.country.allOf": "País inválido",

@@ -68,6 +68,7 @@
   "i18n.general.error.file.allOf": "Invalid file",
   "i18n.general.error.picture.allOf": "Invalid picture",
   "i18n.general.error.email.allOf": "Invalid email",
+  "i18n.general.error.email.alreadyExists": "Email is already registered.",
   "i18n.general.error.password.allOf": "Invalid password",
   "i18n.general.error.name.allOf": "Invalid name",
   "i18n.general.error.country.allOf": "Invalid country",
