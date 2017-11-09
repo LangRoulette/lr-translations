@@ -59,6 +59,8 @@
   "i18n.general.next": "Next",
   "i18n.general.start": "Start",
   "i18n.general.close": "Close",
+  "i18n.general.yes": "Yes",
+  "i18n.general.no": "No",
 
   "i18n.general.error.message.notFound": "Message not found",
   "i18n.general.error.user.notValid": "Invalid user",
