@@ -15,6 +15,7 @@
   "i18n.loginForm.email.notValid": "This is not a valid email.",
   "i18n.loginForm.password.notEmpty": "Tell us your email.",
   "i18n.loginForm.password.minLength": "Enter at least 5 characters.",
+  "i18n.loginForm.password.forgot": "Forgot your password?",
 
   "i18n.signUpForm.country": "Your country",
   "i18n.signUpForm.gender": "Your gender",
@@ -22,6 +23,7 @@
   "i18n.signUpForm.email": "Email",
   "i18n.signUpForm.password": "Password",
   "i18n.signUpForm.profile": "Profile",
+  "i18n.signUpForm.myAccount": "My Account",
   "i18n.signUpForm.languages.known": "Languages you know",
   "i18n.signUpForm.languages.learning": "Languages you are learning",
   "i18n.signUpForm.profilePicture.library": "Load from the library",
@@ -45,6 +47,7 @@
   "i18n.general.internetConnection": "Something went wrong. Do you have internet connection?",
   "i18n.general.genericError": "Ops! We're sorry but something wrong.",
   "i18n.general.tryAgain": "Please, try again!",
+  "i18n.general.languages": "Languages",
   "i18n.general.cancel": "Cancel",
   "i18n.general.gender.male": "Male",
   "i18n.general.gender.female": "Female",

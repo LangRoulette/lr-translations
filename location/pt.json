@@ -15,6 +15,7 @@
   "i18n.loginForm.email.notValid": "Esse não é um email válido.",
   "i18n.loginForm.password.notEmpty": "Digite sua senha.",
   "i18n.loginForm.password.minLength": "A senha precisa ter pelo menos 5 caracteres.",
+  "i18n.loginForm.password.forgot": "Esqueceu sua senha?",
 
   "i18n.signUpForm.country": "Seu país",
   "i18n.signUpForm.gender": "Seu genero",
@@ -22,6 +23,7 @@
   "i18n.signUpForm.email": "Email",
   "i18n.signUpForm.password": "Senha",
   "i18n.signUpForm.profile": "Perfil",
+  "i18n.signUpForm.myAccount": "Minha Conta",
   "i18n.signUpForm.languages.known": "idiomas que você fala",
   "i18n.signUpForm.languages.learning": "Idiomas que você está aprendendo",
   "i18n.signUpForm.profilePicture.library": "Carregar da biblioteca",
@@ -46,6 +48,7 @@
   "i18n.general.genericError": "Ops! Infelizmente alguma coisa deu errado.",
   "i18n.general.tryAgain": "Por favor, tente novamente!",
   "i18n.general.cancel": "Cancelar",
+  "i18n.general.languages": "Idiomas",
   "i18n.general.gender.male": "Masculino",
   "i18n.general.gender.female": "Feminino",
   "i18n.general.gender.error": "Erro",
