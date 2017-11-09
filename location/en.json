@@ -39,6 +39,12 @@
   "i18n.signUpForm.password.minLength": "Enter at least 5 characters.",
   "i18n.signUpForm.country.notEmpty": "Select your country.",
 
+  "i18n.resetPassword.areYouSure": "Do you want to reset your password?.",
+  "i18n.resetPassword.newPassword": "If you want to reset your password, a new password is going to be sent to your email account.",
+  "i18n.resetPassword.success": "Password successfully reset!",
+  "i18n.resetPassword.newPasswordSent": "A new password was sent to your email account.",
+  "i18n.resetPassword.fail": "Reset password failed.",
+
   "i18n.chat.noPartner": "No partner.",
 
   "i18n.error.audio.capture.failed": "It was not possible to capture the audio message.",
