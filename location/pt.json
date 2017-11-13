@@ -49,8 +49,11 @@
 
   "i18n.error.audio.capture.failed": "Não foi possível capturar a mensagem de audio.",
 
+  "i18n.upload.sending": "Enviando...",
+  "i18n.upload.success": "Envio terminado com sucesso!",
+
   "i18n.general.loading": "Carregando...",
-  "i18n.general.internetConnection": "Alguma coisa deu errado. Você tem conexão com a internet?",
+  "i18n.general.internetConnection": "Você tem conexão com a internet?",
   "i18n.general.genericError": "Ops! Infelizmente alguma coisa deu errado.",
   "i18n.general.tryAgain": "Por favor, tente novamente!",
   "i18n.general.cancel": "Cancelar",
@@ -71,6 +74,7 @@
   "i18n.general.yes": "Sim",
   "i18n.general.no": "Não",
 
+  "i18n.general.error": "Alguma coisa deu errado.",
   "i18n.general.error.message.notFound": "Mensagem não encontrada",
   "i18n.general.error.user.notValid": "Usuário inválido",
   "i18n.general.error.receiver.notFound": "Parceiro inválido",

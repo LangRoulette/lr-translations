@@ -49,8 +49,11 @@
 
   "i18n.error.audio.capture.failed": "It was not possible to capture the audio message.",
 
+  "i18n.upload.sending": "Uploading...",
+  "i18n.upload.success": "Upload successful!",
+
   "i18n.general.loading": "Loading...",
-  "i18n.general.internetConnection": "Something went wrong. Do you have internet connection?",
+  "i18n.general.internetConnection": "Do you have internet connection?",
   "i18n.general.genericError": "Ops! We're sorry but something wrong.",
   "i18n.general.tryAgain": "Please, try again!",
   "i18n.general.languages": "Languages",
@@ -71,6 +74,7 @@
   "i18n.general.yes": "Yes",
   "i18n.general.no": "No",
 
+  "i18n.general.error": "Something went wrong.",
   "i18n.general.error.message.notFound": "Message not found",
   "i18n.general.error.user.notValid": "Invalid user",
   "i18n.general.error.receiver.notFound": "Invalid partner",
