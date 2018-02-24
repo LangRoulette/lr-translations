@@ -73,6 +73,9 @@
   "i18n.general.close": "Close",
   "i18n.general.yes": "Yes",
   "i18n.general.no": "No",
+  "i18n.general.he": "He",
+  "i18n.general.she": "She",
+  "i18n.general.heshe": "He/She",
 
   "i18n.general.error": "Something went wrong.",
   "i18n.general.error.message.notFound": "Message not found",
