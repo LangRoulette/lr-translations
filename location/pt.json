@@ -76,6 +76,8 @@
   "i18n.general.he": "Ele",
   "i18n.general.she": "Ela",
   "i18n.general.heshe": "Ele/Ela",
+  "i18n.general.speaks": "Fala",
+  "i18n.general.isLearning": "Está aprendendo",
 
   "i18n.general.error": "Alguma coisa deu errado.",
   "i18n.general.error.message.notFound": "Mensagem não encontrada",
