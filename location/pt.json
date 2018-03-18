@@ -100,6 +100,8 @@
   "i18n.general.error.study_hour.allOf": "Hora de estudo inválida",
   "i18n.general.error.partner_email.allOf": "Email do parceiro é inválido",
   "i18n.general.error.login.notValid": "Não foi possível efetuar seu login, verifique seus dados e tente novamente.",
+  "i18n.general.error.permissionMissing": "Permissão obrigatória está faltando!",
+  "i18n.general.error.recordPermissionMissing": "Para que o app funcione, você deve dar permissão para o gravar audios",
 
   "i18n.general.countries.ascension_island": "Ilha da Ascensão",
   "i18n.general.countries.andorra": "Andorra",

@@ -100,6 +100,8 @@
   "i18n.general.error.study_hour.allOf": "Invalid study hour",
   "i18n.general.error.partner_email.allOf": "Invalid partner email",
   "i18n.general.error.login.notValid": "It was not possible to login, check your information and try again.",
+  "i18n.general.error.permissionMissing": "Mandatory permission missing!",
+  "i18n.general.error.recordPermissionMissing": "For the app to work, you have to give permission for the app to record audios.",
 
   "i18n.general.countries.ascension_island": "Ascension Island",
   "i18n.general.countries.andorra": "Andorra",
