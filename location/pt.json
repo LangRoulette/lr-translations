@@ -45,6 +45,9 @@
   "i18n.resetPassword.newPasswordSent": "Uma nova senha foi enviada para a sua conta de email.",
   "i18n.resetPassword.fail": "O processo de resetar a sua senha falhou.",
 
+  "i18n.chat.youReceivedANewMessage": "Você recebeu uma nova mensagem",
+  "i18n.chat.sentANewMessageToYou": "Enviou uma nova mensagem para você",
+
   "i18n.chat.noPartner": "Sem parceiro.",
 
   "i18n.error.audio.capture.failed": "Não foi possível capturar a mensagem de audio.",

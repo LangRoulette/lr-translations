@@ -45,6 +45,9 @@
   "i18n.resetPassword.newPasswordSent": "A new password was sent to your email account.",
   "i18n.resetPassword.fail": "Reset password failed.",
 
+  "i18n.chat.youReceivedANewMessage": "You received a new message",
+  "i18n.chat.sentANewMessageToYou": "Sent a new message to you",
+
   "i18n.chat.noPartner": "No partner.",
 
   "i18n.error.audio.capture.failed": "It was not possible to capture the audio message.",
