@@ -83,6 +83,12 @@
   "i18n.general.isLearning": "Está aprendendo",
   "i18n.general.feedback": "Comentários",
   "i18n.general.socialNetwork": "Redes Sociais",
+  "i18n.general.shareUs": "Comparilhe-nos",
+  "i18n.general.followUs": "Siga-nos",
+  "i18n.general.langroulette": "LangRoulette",
+
+  "i18n.share.subject": "Fale rápido! Pratique o idioma que você ama com o LangRoulette.",
+  "i18n.share.message": "A melhor forma de falar um novo idioma é praticando. Vamos praticar juntos em www.langroulette.com",
 
   "i18n.general.error": "Alguma coisa deu errado.",
   "i18n.general.error.message.notFound": "Mensagem não encontrada",
