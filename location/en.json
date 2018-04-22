@@ -81,6 +81,8 @@
   "i18n.general.heshe": "He/She",
   "i18n.general.speaks": "Speaks",
   "i18n.general.isLearning": "Is learning",
+  "i18n.general.feedback": "Feedback",
+  "i18n.general.socialNetwork": "Social Network",
 
   "i18n.general.error": "Something went wrong.",
   "i18n.general.error.message.notFound": "Message not found",
