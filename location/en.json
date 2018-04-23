@@ -98,6 +98,7 @@
   "i18n.feedback.send": "Send feedback",
 
   "i18n.general.error": "Something went wrong.",
+  "i18n.general.error.title.default": "Ops!",
   "i18n.general.error.message.notFound": "Message not found",
   "i18n.general.error.user.notValid": "Invalid user",
   "i18n.general.error.receiver.notFound": "Invalid partner",
