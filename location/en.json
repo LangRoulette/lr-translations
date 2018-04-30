@@ -47,8 +47,13 @@
 
   "i18n.chat.youReceivedANewMessage": "You received a new message",
   "i18n.chat.sentANewMessageToYou": "Sent a new message to you",
-
   "i18n.chat.noPartner": "No partner.",
+
+  "i18n.mail.password.subject": "LangRoulette Password Reset",
+  "i18n.mail.password.title": "LangRoulette Password Reset",
+  "i18n.mail.password.message": "Hi %name%, <br/>Your new password is: %password%.<br/><br/>You can change it after your login.",
+  "i18n.mail.welcome.subject": "Welcome to LangRoulette!",
+  "i18n.mail.welcome.hi": "Hi %name%",
 
   "i18n.error.audio.capture.failed": "It was not possible to capture the audio message.",
 
