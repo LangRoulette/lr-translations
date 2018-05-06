@@ -48,6 +48,9 @@
   "i18n.chat.youReceivedANewMessage": "Você recebeu uma nova mensagem",
   "i18n.chat.sentANewMessageToYou": "Enviou uma nova mensagem para você",
   "i18n.chat.noPartner": "Sem parceiro.",
+  "i18n.chat.message.denounce": "Denunciar mensagem",
+  "i18n.chat.message.denounced": "Mensagem denunciada!",
+  "i18n.chat.message.theContentWasDenounced": "Obrigado pela denúncia. Nós vamos verificar a mensagem dentro das próximas 24 horas.",
 
   "i18n.mail.password.subject": "LangRoulette Reset Senha",
   "i18n.mail.password.title": "LangRoulette Reset Senha",
