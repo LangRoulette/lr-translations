@@ -60,6 +60,7 @@
   "i18n.mail.welcome.hi": "Hi %name%",
 
   "i18n.error.audio.capture.failed": "It was not possible to capture the audio message.",
+  "i18n.error.account.anonymous": "You cannot use \"anonymouns\" word in your name or email.",
 
   "i18n.upload.sending": "Uploading...",
   "i18n.upload.success": "Upload successful!",
