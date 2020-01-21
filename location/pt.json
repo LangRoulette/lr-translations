@@ -1,4 +1,6 @@
 {
+  "i18n.general.gdpr_about_data": "Sobre Dados, Cookies e Analytics",
+
   "i18n.partner.notFound": "Nenhum parceiro encontrado!",
   "i18n.partner.notFound.explanation": "Desculpa, não conseguimos encontrar nenhum parceiro para você.",
   "i18n.partner.notFound.callToAction": "Você não gostaria de praticar um idioma diferente?",
