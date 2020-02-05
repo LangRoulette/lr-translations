@@ -40,6 +40,7 @@
   "i18n.signUpForm.password.notEmpty": "Digite sua senha",
   "i18n.signUpForm.password.minLength": "A senha precisa ter pelo menos 5 caracteres",
   "i18n.signUpForm.country.notEmpty": "Selecione o seu país",
+  "i18n.signUpForm.cancelAccount": "Cancelar a conta?",
 
   "i18n.resetPassword.areYouSure": "Você quer resetar sua senha?",
   "i18n.resetPassword.newPassword": "Se você quiser resetar a sua senha. Uma nova senha será enviada para a sua conta de email.",
