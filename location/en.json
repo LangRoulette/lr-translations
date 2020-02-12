@@ -41,6 +41,8 @@
   "i18n.signUpForm.password.minLength": "Enter at least 5 characters",
   "i18n.signUpForm.country.notEmpty": "Select your country",
   "i18n.signUpForm.cancelAccount": "Cancel account?",
+  "i18n.signUpForm.cancel.alert.title": "Attention",
+  "i18n.signUpForm.cancel.alert.message": "Are you sure you want to delete your account? Deleting your account is permanent and will remove all content including messages, avatars and profile settings",
 
   "i18n.resetPassword.areYouSure": "Do you want to reset your password?",
   "i18n.resetPassword.newPassword": "If you want to reset your password, a new password is going to be sent to your email account.",
