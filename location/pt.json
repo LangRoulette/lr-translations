@@ -114,6 +114,8 @@
   "i18n.general.langroulette": "LangRoulette",
   "i18n.general.thankYou": "Obrigado pelo seu feedback",
   "i18n.general.accept": "Aceitar",
+  "i18n.general.list_groups": "Listar grupos",
+  "i18n.general.new_group": "Novo grupo",
 
   "i18n.share.subject": "Fale rápido! Pratique o idioma que você ama com o LangRoulette.",
   "i18n.share.message": "A melhor forma de falar um novo idioma é praticando. Vamos praticar juntos em www.langroulette.com",
